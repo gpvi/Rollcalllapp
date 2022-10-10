@@ -12,7 +12,7 @@ struct Student{
 		return absence>it.absence;
 	}
 	
-}; 
+};
 
 int rd(int R){
 	return ((rand()<<12)%R+rand())%R;
