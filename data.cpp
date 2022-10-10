@@ -40,7 +40,8 @@ signed main(){
 	while(s.size()<absence_num)
 		s.insert(rd(n)+1);
 	while(!s.empty()){
-		int idx=(*s.begin())-1;s.erase(s.begin());
+		int idx=(*s.begin())-1;
+		s.erase(s.begin());
 		vec[idx].absence = min((int)(times*(0.8)+rd_(3)), top);
 		top -= vec[idx].absence;
 		vis[idx+1] = true;
@@ -50,6 +51,7 @@ signed main(){
 		vec[i].absence = min(rd(times*0.3), top);
 		top -= vec[i].absence; 
 	}
+
 	int now_absence=rd(4);
 	int out=0,in=now_absence;
 	int tmp=rd(100);
