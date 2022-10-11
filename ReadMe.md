@@ -10,7 +10,7 @@
 
 ## 3.点名数据展示
 AVE_E = 0.7
-![](./Data/myplot1.jpg)
+![](Data/myplot1.png)
 
 
 # 接口的设置：
