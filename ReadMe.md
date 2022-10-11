@@ -7,7 +7,7 @@ pip install xxx
 ` 
 运行main即可得到结果，数据可视化结果:
 
-![](Data/p1.jpg)
+![](Data/p1.jpg) 
 # 运行&操作
 ## 1.运行代码 
 ![](image/mk-2022-10-11-14-22-57.png)
