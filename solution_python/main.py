@@ -31,5 +31,5 @@ if __name__ == '__main__':
        fig = plt.figure()
        ax = fig.add_subplot(1,1,1)
        ax.plot(e_l)
-       plt.show()
        plt.savefig('../Data/p1.jpg')
+       plt.show()
