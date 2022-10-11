@@ -36,7 +36,29 @@
 - 输入采用参数输入
 - 输出 输出E，随机数据文件地址
 # 三、重大收获
-1.这次作业中，我们对于github的使用频率，学习了git的冲突解决。2.学习和了解蒙特卡洛算法，并尝试在这次作业中使用。3.学习和了解了接口的相关知识4.熟悉python pandas库的使用，dataframe的使用。5.学习理解了python文件的打包方式。6.学习了Python的文件调用及项目文件管理。7.熟悉了利用git和GitHub的版本管理来提高项目完成效率和沟通效率。
+1.这次作业中，我们对于github的使用频率，学习了git的冲突解决。 
+2.学习和了解蒙特卡洛算法，并尝试在这次作业中使用。  
+3.学习和了解了接口的相关知识  
+4.熟悉python pandas库的使用，dataframe的使用。  
+5.学习理解了python文件的打包方式。  
+6.学习了Python的文件调用及项目文件管理。  
+7.熟悉了利用git和GitHub的版本管理来提高项目完成效率和沟通效率。
+8.结果展示 
+E 值平均值
+<!-- 图片 -->
+![image](https://user-images.githubusercontent.com/73032307/195113769-953a18f2-568e-4ce0-a1f8-5769ff81e42c.png)
+
+<!-- 数据概览图片 -->
+![image](https://user-images.githubusercontent.com/73032307/195113841-0833e0fb-b456-4091-85d5-2b205afb3c59.png)
+![image](https://user-images.githubusercontent.com/73032307/195114221-7b49cd9c-4d7f-414d-9295-3828b0214c56.png)
+
+9.代码概览
+![image](https://user-images.githubusercontent.com/73032307/195112833-76655d00-ad53-48e5-b048-00833d4e29be.png)
+10.commit 过程
+![image](https://user-images.githubusercontent.com/73032307/195114088-873b69d2-5d5d-4be2-b939-9326268998d8.png)
+![image](https://user-images.githubusercontent.com/73032307/195114481-dac74097-76ec-4995-aa52-ebd45969e8d8.png)
+![image](https://user-images.githubusercontent.com/73032307/195114634-c75011b7-a3ba-4bae-985a-9a51bcf028bb.png)
+
 # 四、 PSP表格
 | PSP|Personal Software Process Stages|预估耗时/分钟|	实际耗时/分钟|
 |-------|--------|-----------|----------|
@@ -64,6 +86,6 @@
 
 032002630：这次作业中，我印象最深刻的部分是关于git的使用。git版本的控制和回退，在合作中多次使用。而队友对于算法深刻的理解，也非常值得我去学习。在这次的任务中我学到了很多算法方面的知识，为未来的项目以及合作打下了良好的基础。
 
-032002632：通过这次结对作业，可以更好的使用git和GitHub,同时回顾了python的数据处理，在讨论
+032002632：通过这次结对作业，可以更好的使用git和GitHub,同时回顾了python的数据处理，在讨论代码格式与规范的时候花的时间比较多，之前对这方面关注比较少，这次合作过程中，深刻了解了代码规范的重要性，其大大增加了代码可读性。希望可以在之后的学习中了解更多优秀的开发技术。
 
 
